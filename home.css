@@ -427,6 +427,9 @@ footer{
     }
 }
 @media (max-width:600px) {
+    .categories-box{
+        margin: 5px 10px;
+    }
     .product-container{
         grid-template-columns: 1fr;
     }
@@ -449,6 +452,6 @@ footer{
     .logo,
     .product-heading h3,
     .categories-heading h2{
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 }
