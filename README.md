@@ -1,3 +1,2 @@
-## 
-full-responsive-page
+## full-responsive-page
 
